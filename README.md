@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...future projects be it about back-end development, APIs or anything really. I'm looking forward to anything
 - 📫 How to reach me ...ioyeboade@gmail.com
+- My Stack
+<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/5b497126d9a3f40c0ff6bcb3c345a3"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
 ![israel-oye's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israel-oye&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
