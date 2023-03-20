@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @israel-oye
 - 👀 I’m interested in ...Back-end web development and Python in general
-- 🌱 I’m currently writing ...Python
+- 🌱 I’m a Python developer
 - 💞️ I’m looking to collaborate on ...future projects be it about back-end development, APIs or anything really. I'm looking forward to anything
 - 📫 How to reach me ...ioyeboade@gmail.com
 - [My Stack](https://stackshare.io/israel-oye/my-stack)
